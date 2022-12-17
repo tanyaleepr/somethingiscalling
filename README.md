@@ -1,0 +1,1 @@
+This is a trial for an actual project. More information will be added based on steps for TypeScript and React. Probably will be using Tailwind CSS.
